@@ -1,5 +1,8 @@
 # RaintreeSystems_Test
 
+**SQL tabelite loomised ja nende täitmised on leitavad failist ex1.sql**
+
+## Küsimused
 ### Mis blogisid loed, et olla oma eriala või huvidega kursis?
 - Hoian ennast kursis jälgides erinevaid inimesi ja uudistekanaleid sotsiaalmeedias (Musk, Villig, Wired, Digitaltrends). Palju informatsiooni saab veebiuudistest, näiteks BBC. Samuti värskelt avastasin enda jaoks LinkedIn-i, kus liigub palju uudiseid arengute kohta IT valdkonnas.
 
